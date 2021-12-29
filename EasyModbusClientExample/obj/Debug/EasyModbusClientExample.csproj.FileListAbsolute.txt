@@ -1,0 +1,18 @@
+D:\我的项目\PC应用程序\00 自定义控件\Modbus控件\EasyModbusTCP.NET-master\EasyModbusClientExample\bin\Debug\EasyModbusClientExample.exe.config
+D:\我的项目\PC应用程序\00 自定义控件\Modbus控件\EasyModbusTCP.NET-master\EasyModbusClientExample\bin\Debug\EasyModbusClientExample.exe
+D:\我的项目\PC应用程序\00 自定义控件\Modbus控件\EasyModbusTCP.NET-master\EasyModbusClientExample\bin\Debug\EasyModbusClientExample.pdb
+D:\我的项目\PC应用程序\00 自定义控件\Modbus控件\EasyModbusTCP.NET-master\EasyModbusClientExample\obj\Debug\EasyModbusClientExample.csprojResolveAssemblyReference.cache
+D:\我的项目\PC应用程序\00 自定义控件\Modbus控件\EasyModbusTCP.NET-master\EasyModbusClientExample\obj\Debug\EasyModbusClientExample.MainForm.resources
+D:\我的项目\PC应用程序\00 自定义控件\Modbus控件\EasyModbusTCP.NET-master\EasyModbusClientExample\obj\Debug\EasyModbusClientExample.Properties.Resources.resources
+D:\我的项目\PC应用程序\00 自定义控件\Modbus控件\EasyModbusTCP.NET-master\EasyModbusClientExample\obj\Debug\EasyModbusClientExample.csproj.GenerateResource.Cache
+D:\我的项目\PC应用程序\00 自定义控件\Modbus控件\EasyModbusTCP.NET-master\EasyModbusClientExample\obj\Debug\EasyModbusClientExample.exe
+D:\我的项目\PC应用程序\00 自定义控件\Modbus控件\EasyModbusTCP.NET-master\EasyModbusClientExample\obj\Debug\EasyModbusClientExample.pdb
+D:\我的项目\PC应用程序\00 自定义控件\Modbus控件\EasyModbusTCP.NET-master 修改版\EasyModbusClientExample\bin\Debug\EasyModbusClientExample.exe.config
+D:\我的项目\PC应用程序\00 自定义控件\Modbus控件\EasyModbusTCP.NET-master 修改版\EasyModbusClientExample\obj\Debug\EasyModbusClientExample.exe
+D:\我的项目\PC应用程序\00 自定义控件\Modbus控件\EasyModbusTCP.NET-master 修改版\EasyModbusClientExample\obj\Debug\EasyModbusClientExample.pdb
+D:\我的项目\PC应用程序\00 自定义控件\Modbus控件\EasyModbusTCP.NET-master 修改版\EasyModbusClientExample\bin\Debug\EasyModbusClientExample.exe
+D:\我的项目\PC应用程序\00 自定义控件\Modbus控件\EasyModbusTCP.NET-master 修改版\EasyModbusClientExample\bin\Debug\EasyModbusClientExample.pdb
+D:\我的项目\PC应用程序\00 自定义控件\Modbus控件\EasyModbusTCP.NET-master 修改版\EasyModbusClientExample\obj\Debug\EasyModbusClientExample.csprojResolveAssemblyReference.cache
+D:\我的项目\PC应用程序\00 自定义控件\Modbus控件\EasyModbusTCP.NET-master 修改版\EasyModbusClientExample\obj\Debug\EasyModbusClientExample.MainForm.resources
+D:\我的项目\PC应用程序\00 自定义控件\Modbus控件\EasyModbusTCP.NET-master 修改版\EasyModbusClientExample\obj\Debug\EasyModbusClientExample.Properties.Resources.resources
+D:\我的项目\PC应用程序\00 自定义控件\Modbus控件\EasyModbusTCP.NET-master 修改版\EasyModbusClientExample\obj\Debug\EasyModbusClientExample.csproj.GenerateResource.Cache
