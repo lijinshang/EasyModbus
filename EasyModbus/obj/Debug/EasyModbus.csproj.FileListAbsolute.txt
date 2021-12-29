@@ -1,0 +1,12 @@
+D:\我的项目\PC应用程序\00 自定义控件\Modbus控件\EasyModbusTCP.NET-master\EasyModbus\bin\Debug\EasyModbus.xml
+D:\我的项目\PC应用程序\00 自定义控件\Modbus控件\EasyModbusTCP.NET-master\EasyModbus\bin\Debug\EasyModbus.dll
+D:\我的项目\PC应用程序\00 自定义控件\Modbus控件\EasyModbusTCP.NET-master\EasyModbus\bin\Debug\EasyModbus.pdb
+D:\我的项目\PC应用程序\00 自定义控件\Modbus控件\EasyModbusTCP.NET-master\EasyModbus\obj\Debug\EasyModbus.dll
+D:\我的项目\PC应用程序\00 自定义控件\Modbus控件\EasyModbusTCP.NET-master\EasyModbus\obj\Debug\EasyModbus.pdb
+D:\我的项目\PC应用程序\00 自定义控件\Modbus控件\EasyModbusTCP.NET-master\EasyModbus\obj\Debug\EasyModbus.csprojResolveAssemblyReference.cache
+D:\我的项目\PC应用程序\00 自定义控件\Modbus控件\EasyModbusTCP.NET-master 修改版\EasyModbus\bin\Debug\EasyModbus.xml
+D:\我的项目\PC应用程序\00 自定义控件\Modbus控件\EasyModbusTCP.NET-master 修改版\EasyModbus\bin\Debug\EasyModbus.dll
+D:\我的项目\PC应用程序\00 自定义控件\Modbus控件\EasyModbusTCP.NET-master 修改版\EasyModbus\bin\Debug\EasyModbus.pdb
+D:\我的项目\PC应用程序\00 自定义控件\Modbus控件\EasyModbusTCP.NET-master 修改版\EasyModbus\obj\Debug\EasyModbus.csprojResolveAssemblyReference.cache
+D:\我的项目\PC应用程序\00 自定义控件\Modbus控件\EasyModbusTCP.NET-master 修改版\EasyModbus\obj\Debug\EasyModbus.dll
+D:\我的项目\PC应用程序\00 自定义控件\Modbus控件\EasyModbusTCP.NET-master 修改版\EasyModbus\obj\Debug\EasyModbus.pdb

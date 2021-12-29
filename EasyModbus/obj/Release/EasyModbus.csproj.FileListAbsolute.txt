@@ -1,0 +1,3 @@
+D:\我的项目\PC应用程序\00 自定义控件\Modbus控件\EasyModbusTCP.NET-master 修改版\EasyModbus\bin\Release\EasyModbus.dll
+D:\我的项目\PC应用程序\00 自定义控件\Modbus控件\EasyModbusTCP.NET-master 修改版\EasyModbus\obj\Release\EasyModbus.dll
+D:\我的项目\PC应用程序\00 自定义控件\Modbus控件\EasyModbusTCP.NET-master 修改版\EasyModbus\obj\Release\EasyModbus.csprojResolveAssemblyReference.cache
