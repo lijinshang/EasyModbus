@@ -37,7 +37,7 @@ ModbusClient修改版：
 ***************************************************************************************
 
 EasyModbus development team:
-I don't know how to use the GitHub website. I am very optimistic about the easymodbus control.
+I am very optimistic about the easymodbus control.
 If the easymodbus developer notices this code, please contact me and I want to join.
 
-李锦上lijinshang@126.com
+lijinshang@126.com
